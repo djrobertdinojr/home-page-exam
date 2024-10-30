@@ -1,0 +1,9 @@
+#hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
